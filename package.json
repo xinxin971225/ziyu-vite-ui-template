@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "vue": "^3.2.41",
-    "ziyu-vite-ui": "0.1.3"
+    "ziyu-vite-ui": "0.1.5"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.2.0",
